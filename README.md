@@ -10,7 +10,6 @@ Java, Leetcode, and full stack web development
 
 - 📫 Other social links
 Linkedin profile - https://www.linkedin.com/in/wongkevin41/
-Github professional profile - https://kwong41.github.io/
 
 <!---
 KWong41/KWong41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
