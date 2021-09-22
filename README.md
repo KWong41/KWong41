@@ -6,12 +6,9 @@ I am a proud recipient of the University of Hawai'i at Manoa's computer science 
 
 - 🌱 Current Projects in development (in my repository list)
 
-Kahikuonalani Church webapp in Spring-boot, Apache Tomcat, Thymeleaf, and HTML/CSS
-Github Repository:  https://github.com/KWong41/KahikuonalaniChurchApp
+Professional Profile webapp | ReactJS, Bootstrap, and Javascript
 
-Professional Profile webapp in ReactJS, 
-Github Repository:  
-https://kwong41.github.io/professional-profile/
+Kahikuonalani Church webapp | Spring-boot, Apache Tomcat, Thymeleaf, and HTML/CSS
 
 - Completed Projects (also in my repository list as public)
 
