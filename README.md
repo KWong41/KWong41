@@ -1,6 +1,6 @@
 👋👋👋👋 Hi, I’m Kevin!
 
-I am a proud recipient of the University of Hawai'i at Manoa's computer science program.  I graduated in May 2021 and is pursuing a career in Software Engineering.  In my free-time I like to play videogames, watch youtube, and eat!  
+I am a recent graduate of the University of Hawai'i at Manoa's computer science program.  I graduated in May 2021 and is pursuing a career in Software Engineering.  In my free-time I like to play videogames, watch youtube, and eat!  
 
 - 🌱 I’m currently learning Java, Javascript, ReactJS, Spring-boot, Problem-solving techniques on leetcode.com, and full-stack web development
 
